@@ -1,0 +1,20 @@
+{
+    "result": [
+      {
+        "id": 1,
+        "no": 1,
+        "name": "Soto",
+        "deskripsi": "Soto ayam bening",
+        "harga": "12.000",
+        "Poster": "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305-780x440.jpg"
+      },
+      {
+        "id": 2,
+        "no": 2,
+        "name": "Sate Maranggi",
+        "deskripsi": "Sate ayam maranggi",
+        "harga": "45.000",
+        "Poster": "https://i1.wp.com/resepkoki.id/wp-content/uploads/2017/07/Resep-Sate-Maranggi.jpg?fit=2446%2C2606&ssl=1"
+      }
+    ]
+}
