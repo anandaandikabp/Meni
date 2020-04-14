@@ -3,7 +3,7 @@
       {
         "id": 1,
         "no": 1,
-        "name": "Hamburger",
+        "name": "Hamburger 1",
         "deskripsi": "Big Mac Cheese",
         "harga": "42.000",
         "Poster": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/nhj93oZApoMavF1lC6Wm.png"
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "no": 2,
-        "name": "Hamburger",
+        "name": "Hamburger 2",
         "deskripsi": "Beef Burger",
         "harga": "45.000",
         "Poster": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/DphnbGHsUmbCNDabsZny.png"
@@ -19,7 +19,7 @@
       {
         "id": 3,
         "no": 3,
-        "name": "Ayam Goreng",
+        "name": "Ayam Goreng 1",
         "deskripsi": "Special Panas 1",
         "harga": "45.000",
         "Poster": "https://nos.jkt-1.neo.id/mcdonalds/foods/September2019/QhZI0YBTJ3VLWbAqcdIK.png"
@@ -27,7 +27,7 @@
       {
         "id": 4,
         "no": 4,
-        "name": "Ayam Goreng",
+        "name": "Ayam Goreng 2",
         "deskripsi": "Special Panas 2",
         "harga": "45.000",
         "Poster": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/Lpv9lCHnzdtnFx1ZbGrj.png"
